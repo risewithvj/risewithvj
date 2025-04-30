@@ -1,4 +1,4 @@
-# DevTools by Vijaya – Free Online Tools for Developers & Businesses
+# DevTools by Vijaya Kumar L – Free Online Tools for Developers & Businesses
 
 Welcome to **DevTools by Vijaya Kumar L** – a growing collection of **free, easy-to-use online tools** designed to make life easier for developers, digital marketers, freelancers, and small businesses.
 
