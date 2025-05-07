@@ -113,4 +113,5 @@ Feel free to use, remix, and contribute – just credit the original.
 ### © Copyright
 
 **© Vijaya Kumar L**  
-All rights reserved. Tools, content, and source code by [Tech Point Official](https://techpointofficial.in) and Vijaya Kumar L.
+All rights reserved. Tools, content, and source code by [Tech Point Official](https://techpointofficial.in) and Vijaya Kumar L. 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=risewithvj.risewithvj&color=purple&label=Profile+Views&style=for-the-badge)
