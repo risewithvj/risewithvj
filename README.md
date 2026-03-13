@@ -1,117 +1,54 @@
-# DevTools by Vijaya Kumar L – Free Online Tools for Developers & Businesses
+# 🚀 Lead – Application Engineering | Web Platforms & Automation
 
-Welcome to **DevTools by Vijaya Kumar L** – a growing collection of **free, easy-to-use online tools** designed to make life easier for developers, digital marketers, freelancers, and small businesses.
+I am **Vijay Kumar**, a Lead Application Engineer based in **Bangalore**. I specialize in bridging the gap between high-performance web development and strategic digital growth. My focus is on building scalable platforms, automating complex workflows, and optimizing search visibility to drive measurable business impact.
 
-Whether you're debugging, building, tracking, or sharing – this suite has something for you.  
-Each tool is available to use **online**, with **source code provided**, so you can deploy or customize it for your own use.
-
----
-
-## 🧰 Available Tools
-
-### 🔁 Unit Converter  
-Quickly convert between units (length, weight, volume, etc.)  
-🔝 [Unit Converter - Explore Now ](https://devtoolsonline.pages.dev/unit-converter)
-
-### 🤖 Robots.txt Generator  
-Generate robots.txt for your website SEO  
-🔝 [Coming Soon!](#)
-
-### 🗘️ Sitemap Generator  
-Create XML sitemaps for better search engine indexing  
-🔝 [Coming Soon!](#)
-
-### 🔍 URL Health Checker  
-Check if a website or URL is up and running  
-🔝 [Coming Soon!](#)
-
-### 🔗 UTM Link Builder  
-Build UTM campaign links to track your marketing efforts  
-🔝 [Coming Soon!](#)
-
-### 📟 LinkedIn Text Formatter (Advanced)  
-Break, bold, format text for LinkedIn posts beautifully  
-🔝 [Coming Soon!](#)
-
-### 🖼️ Image to PDF Converter  
-Convert multiple images into a downloadable PDF  
-🔝 [Coming Soon!](#)
-
-### 🧑‍💻 Custom Bio Page Generator (with Source Code)  
-Create a personal bio page with links, info, and style  
-🔝 [Coming Soon!](#)
-
-### 🚚 Order Tracking Page (Google Sheets Integration)  
-Users can enter Tracking IDs and view real-time order status  
-🔝 [Coming Soon!](#)
-
-### 📤 Contact Form 7 to Google Sheets Exporter + Dashboard  
-Easily export form data to Google Sheets with a summary dashboard  
-🔝 [Coming Soon!](#)
-
-### 🤖 SalesIQ Chatbot → Email → Google Sheet (Coming Soon)  
-Track chatbot conversations and push email data into Sheets  
-🔝 [Coming Soon!](#)
-
-### 🔐 Base64 Encoder / Decoder  
-Securely encode or decode Base64 strings  
-🔝 [Coming Soon!](#)
-
-### 📱 Advanced QR Code Generator  
-Generate high-quality QR codes with branding options  
-🔝 [Coming Soon!](#)
+### 🛠️ Core Focus
+* **Application Engineering:** Architecting robust web solutions and managing full-stack migrations.
+* **Automation & SaaS:** Building Micro SaaS tools and integrating AI-driven workflows.
+* **SEO Strategy:** Technical SEO, high-authority content systems, and outranking AI Overviews.
+* **Data & Integration:** Connecting web platforms with Google Ecosystems for real-time intelligence.
 
 ---
 
-## 📂 Source Code
+### 📊 GitHub Activity & Skills
 
-All tools are open-source and available for download or customization.  
-Visit the GitHub repo of each tool or fork the code directly from:  
-🔝 [github.com/risewithvj](https://github.com/risewithvj)
-
----
-
-## 🎯 Purpose of this Project
-
-This initiative is built to **empower small developers, marketers, and businesses** with tools that are:
-
-- 💡 Free to use  
-- 🛠️ Developer-friendly  
-- 📂 Open-source  
-- 🧹 Easy to integrate  
-- 📊 Google Sheet–friendly  
-- 🕒 Time-saving  
-
-We believe in building a better web – together. More tools are coming soon – stay tuned!
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=risewithvj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Vijay's GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+</p>
 
 ---
 
-## 🤝 Contributions & Suggestions
+### 🧰 Tech Stack
 
-If you have an idea for a tool or want to contribute to existing ones, feel free to open a pull request or submit an issue. Collaboration is welcome! or drop a mail to risewithvj@gmail.com
-
----
-
-## 📨 Contact & Social Media
-
-For any queries, partnerships, or feedback:  
-📧 risewithvj@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/vijayakumarl/)  
-🌐 [Blog](https://blogs.techpointofficial.in)  
-📷 [Instagram - @risewithvj](https://www.instagram.com/risewithvj/)  
-📷 [Instagram - @vijayakumarl_official](https://www.instagram.com/vijayakumarl_official/)
+| Category | Technologies |
+| :--- | :--- |
+| **Development** | WordPress, PHP, JavaScript, GitHub, Server Management |
+| **Automation** | Google Apps Script, Webhooks, API Integrations (SalesIQ, CRM) |
+| **Growth/SEO** | Technical SEO Audit, RankMath, Content Strategy, Data Analytics |
+| **Infrastructure** | Site Migrations, SSL/Server Maintenance, Performance Tuning |
 
 ---
 
-## ⚖️ License & Credits
-
-All tools are released under [MIT License](https://opensource.org/licenses/MIT).  
-Feel free to use, remix, and contribute – just credit the original.
+### 💼 Professional Milestone
+> **Lead – Application Engineering at CIEL HR**
+> Driving digital transformation through application architecture, automation, and technology-led growth strategies.
 
 ---
 
-### © Copyright
+### 🤝 Let’s Connect
+I’m always open to discussing web architecture, SEO trends, or the next big thing in Micro SaaS.
 
-**© Vijaya Kumar L**  
-All rights reserved. Tools, content, and source code by [Tech Point Official](https://techpointofficial.in) and Vijaya Kumar L. 
+* 💼 **LinkedIn**: [linkedin.com/in/vijayakumarl/](https://www.linkedin.com/in/vijayakumarl/)
+* 📝 **Blog**: [blogs.techpointofficial.in](https://blogs.techpointofficial.in)
+* 📧 **Email**: risewithvj@gmail.com
+
+---
+
+### ⚡ Quick Logic
+"If a task takes more than 10 minutes and you have to do it twice, it’s time to write a script for it."
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=risewithvj.risewithvj&color=purple&label=Profile+Views&style=for-the-badge)
+
+---
+© 2026 Vijaya Kumar L.
