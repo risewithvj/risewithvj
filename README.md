@@ -1,6 +1,6 @@
 # 🚀 Lead – Application Engineering | Web Platforms & Automation
 
-I am **Vijay Kumar**, a Lead Application Engineer based in **Bangalore**. I specialize in bridging the gap between high-performance web architecture and strategic digital growth. My focus is on building scalable platforms, automating complex business workflows, and driving technical SEO to dominate search rankings.
+I am **Vijaya Kumar L**, a Lead Application Engineer based in **Bangalore**. I specialize in bridging the gap between high-performance web architecture and strategic digital growth. My focus is on building scalable platforms, automating complex business workflows, and driving technical SEO to dominate search rankings.
 
 ---
 
@@ -31,7 +31,9 @@ As a Lead Engineer, I have architected and managed the complete technical lifecy
 
 ### 🏆 GitHub Trophies
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risewithvj&theme=tokyonight&no-bg=true&margin-w=4" alt="Vijay's Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=risewithvj&theme=tokyonight&margin-w=15&no-bg=true" alt="Vijay's Trophies" />
+</a>
 </p>
 
 ---
@@ -64,4 +66,4 @@ I’m always open to discussing web architecture, SEO trends, or the next big th
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=risewithvj.risewithvj&color=purple&label=Profile+Views&style=for-the-badge)
 
 ---
-© 2026 Vijay Kumar
+© 2026 Vijaya Kumar L
