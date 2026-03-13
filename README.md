@@ -22,23 +22,13 @@ As a Lead Engineer, I have architected and managed the complete technical lifecy
 ![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-* **Application Engineering:** Enterprise architecture and high-stakes migrations.
-* **Automation:** Custom AI-driven workflows and CRM integrations.
-* **Technical SEO:** Content systems designed to outrank AI Overviews.
-* **Data Pipelines:** Connecting web platforms to the Google ecosystem.
-
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Metrics
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=risewithvj&theme=radical&margin-w=15" alt="Vijay's Trophies" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=risewithvj&theme=radical&hide_border=true" alt="Vijay's Streak" />
 </p>
 
----
-
-### 📊 Language Distribution
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </p>
