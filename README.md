@@ -24,14 +24,14 @@ As a Lead Engineer, I have architected and managed the complete technical lifecy
 
 ---
 
+---
+
 ### 📈 Contribution Metrics
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=risewithvj&theme=radical&hide_border=true" alt="Vijay's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=risewithvj&theme=radical&hide_border=true" alt="Vijay's Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-</p>
 
 ---
 
