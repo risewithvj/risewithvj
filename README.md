@@ -45,7 +45,7 @@ As a Lead Engineer, I have architected and managed the complete technical lifecy
 I’m always open to discussing web architecture, SEO trends, or the next big thing in Micro SaaS.
 
 * 💼 **LinkedIn**: [linkedin.com/in/vijayakumarl/](https://www.linkedin.com/in/vijayakumarl/)
-* 📝 **Blog**: [blogs.techpointofficial.in](https://blogs.techpointofficial.in)
+* 📝 **Blog**: [trendit.in/author/vijayakumarl](https://trendit.in/author/vijayakumarl/)
 * 📧 **Email**: risewithvj@gmail.com
 
 ---
