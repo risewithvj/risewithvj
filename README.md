@@ -77,7 +77,7 @@ Lead Application Engineer with a focus on building scalable web platforms, autom
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=risewithvj&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" width="500" />
+<img src="https://streak-stats.demolab.com/demo/?user=risewithvj&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
 
 </div>
 
