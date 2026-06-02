@@ -1,162 +1,115 @@
-# 🚀 Vijaya Kumar L
+<div align="center">
 
-### Lead – Application Engineering | Web Platforms | Automation | SEO
+# Vijaya Kumar L
 
-Hi, I'm **Vijaya Kumar L**, a Lead Application Engineer based in **Bangalore, India**.
+**Lead – Application Engineering · Web Platforms & Automation**
 
-I specialize in building scalable web platforms, workflow automation systems, AI-powered business solutions, and enterprise SEO strategies that drive measurable business growth.
+Bangalore, India
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayakumarl-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayakumarl/)
+[![Blog](https://img.shields.io/badge/Blog-trendit.in-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://trendit.in/author/vijayakumarl/)
+[![Email](https://img.shields.io/badge/Email-risewithvj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:risewithvj@gmail.com)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=risewithvj.risewithvj&color=0A66C2&label=Profile+Views&style=flat-square)](https://github.com/risewithvj)
 
-## 🏢 Enterprise Platforms
-
-### 🌐 CIEL HR
-
-India's leading HR services ecosystem.
-
-🔗 https://www.cielhr.com
-
-### 🤖 CIEL Rapid
-
-AI-powered hiring and talent assessment platform.
-
-🔗 https://www.cielrapid.ai
-
-### 🎓 CIEL Skills & Careers
-
-Skill development and career advancement portal.
-
-🔗 https://www.cielskillsandcareers.com
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### Languages & Development
+Lead Application Engineer with a focus on building scalable web platforms, automating complex business workflows, and driving technical SEO strategy. I architect end-to-end digital solutions — from infrastructure and backend systems to performance optimization and growth engineering — for enterprise-grade products serving millions of users.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### Platforms & Tools
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+> *"If a task takes more than 10 minutes and you have to do it twice, it's time to write a script for it."*
 
 ---
 
-## 🚀 Areas of Expertise
+## Platforms Built & Managed
 
-* Enterprise Web Development
-* Application Architecture
-* Technical SEO
-* AI Integrations
-* Process Automation
-* Workflow Engineering
-* Google Apps Script
-* WordPress Development
-* Lead Generation Systems
-* Micro SaaS Development
-* Performance Optimization
-* Analytics & Reporting
+| Platform | Description |
+|---|---|
+| [CIEL HR](https://www.cielhr.com) | India's leading HR services digital ecosystem |
+| [CIEL Rapid](https://www.cielrapid.ai) | AI-driven hiring and talent assessment platform |
+| [CIEL Skills & Careers](https://www.cielskillsandcareers.com) | Skill development and career growth portal |
 
 ---
 
-## 📊 GitHub Analytics
+## Tech Stack
 
-<p align="center">
+**Languages & Scripting**
 
-<img src="https://github-readme-stats.vercel.app/api?username=risewithvj&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+**Platforms & CMS**
 
-</p>
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+**Tools & Workflow**
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=risewithvj&theme=radical&hide_border=true" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=risewithvj&theme=radical&no-frame=true&margin-w=15&row=1"/>
-
-</p>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📈 Activity Graph
+## GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=risewithvj&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=risewithvj&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&hide_border=true&langs_count=6&count_private=true" height="165" alt="Top Languages" />
 
-</p>
+</div>
 
----
+### Contribution Streak
 
-## 💼 Professional Milestone
+<div align="center">
 
-### Lead – Application Engineering @ CIEL HR
+<img src="https://streak-stats.demolab.com/?user=risewithvj&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-Driving digital transformation through:
+</div>
 
-* Enterprise Applications
-* Workflow Automation
-* AI Integrations
-* SEO Growth Strategies
-* Business Process Optimization
+### GitHub Trophies
 
----
+<div align="center">
 
-## 🤝 Connect With Me
+<img src="https://github-profile-trophy.vercel.app/?username=risewithvj&no-frame=true&no-bg=true&margin-w=4&column=7&theme=flat" alt="GitHub Trophies" />
 
-### 💼 LinkedIn
+</div>
 
-https://www.linkedin.com/in/vijayakumarl/
+### Activity Graph
 
-### 📝 Blog
+<div align="center">
 
-https://trendit.in/author/vijayakumarl
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=risewithvj&bg_color=ffffff&color=0A66C2&line=0A66C2&point=333333&area=true&hide_border=true" alt="Activity Graph" />
 
-### 📧 Email
-
-[risewithvj@gmail.com](mailto:risewithvj@gmail.com)
+</div>
 
 ---
 
-## ⚡ Engineering Philosophy
+## Current Role
 
-> "If a task takes more than 10 minutes and you have to do it twice, automate it."
+**Lead – Application Engineering · CIEL HR**
 
----
-
-## 👀 Profile Visitors
-
-![](https://komarev.com/ghpvc/?username=risewithvj\&style=for-the-badge\&color=blueviolet)
+Driving digital transformation across multiple business verticals through application architecture, workflow automation, and technology-led growth strategy. Responsible for the full technical lifecycle of enterprise web platforms — from architecture decisions and deployment pipelines to SEO performance and third-party integrations.
 
 ---
 
-### 🚀 Currently Building
+## Let's Connect
 
-* AI Powered Recruitment Solutions
-* Enterprise HR Platforms
-* Workflow Automation Systems
-* SEO Growth Engines
-* Micro SaaS Products
+Open to conversations on web architecture, technical SEO, automation engineering, and Micro SaaS.
+
+- **LinkedIn**: [linkedin.com/in/vijayakumarl](https://www.linkedin.com/in/vijayakumarl/)
+- **Blog**: [trendit.in/author/vijayakumarl](https://trendit.in/author/vijayakumarl/)
+- **Email**: risewithvj@gmail.com
 
 ---
 
-⭐ If you like automation, SEO, AI, or web engineering, feel free to connect and collaborate.
+<div align="center">
 
 © 2026 Vijaya Kumar L
+
+</div>
