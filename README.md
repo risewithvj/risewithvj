@@ -57,11 +57,17 @@ Lead Application Engineer with a focus on building scalable web platforms, autom
 
 ## GitHub Analytics
 
+> Stats are self-hosted via GitHub Actions and served from this repository — always up to date and never rate-limited.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=risewithvj&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400" height="170" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&hide_border=true&langs_count=6&count_private=true&card_width=320" height="170" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/risewithvj/risewithvj/main/assets/metrics.svg" alt="GitHub Metrics" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/risewithvj/risewithvj/main/assets/languages.svg" alt="Top Languages" width="100%" />
 
 </div>
 
@@ -91,7 +97,7 @@ Lead Application Engineer with a focus on building scalable web platforms, autom
 
 <div align="center">
 
-[![Vijaya Kumar L's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=risewithvj&bg_color=ffffff&color=0A66C2&line=0A66C2&point=1a1a1a&area=true&hide_border=true)](https://github.com/risewithvj)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=risewithvj&bg_color=ffffff&color=0A66C2&line=0A66C2&point=1a1a1a&area=true&hide_border=true)](https://github.com/risewithvj)
 
 </div>
 
