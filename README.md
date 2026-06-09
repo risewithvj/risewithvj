@@ -156,7 +156,7 @@ Leading the complete technical lifecycle of a multi-brand digital portfolio. Res
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,react,nodejs,wordpress,n8n,mysql,postgres,supabase,aws,docker,cloudflare,linux,figma,github&theme=light" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,react,nodejs,wordpress,mysql,postgres,aws,docker,cloudflare,linux,figma,github&theme=light" alt="Tech Stack Icons" />
 
 </div>
 
