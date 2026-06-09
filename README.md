@@ -156,7 +156,7 @@ Leading the complete technical lifecycle of a multi-brand digital portfolio. Res
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,react,nodejs,wordpress,n8n,mysql,postgres,supabase,aws,docker,cloudflare,linux,figma,github&theme=light" alt="Tech Stack Icons" />
 
 </div>
 
@@ -176,7 +176,7 @@ Leading the complete technical lifecycle of a multi-brand digital portfolio. Res
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=risewithvj&no-frame=true&no-bg=true&margin-w=6&column=7&theme=flat" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=risewithvj&no-frame=true&no-bg=true&margin-w=6&column=6&theme=flat" alt="GitHub Trophies" />
 
 </div>
 
