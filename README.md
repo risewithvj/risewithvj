@@ -9,7 +9,7 @@ Bengaluru, Karnataka, India
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayakumarl-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayakumarl/)
 [![Blog](https://img.shields.io/badge/Blog-trendit.in-FF5722?style=flat-square&logo=rss&logoColor=white)](https://trendit.in/author/vijayakumarl/)
 [![Email](https://img.shields.io/badge/Email-risewithvj%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:risewithvj@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=risewithvj&color=0A66C2&style=flat-square&label=Profile+Views)](https://github.com/risewithvj)
+[![Profile Views](https://komarev.com/ghpvc/?username=risewithvj&color=0A66C2&style=flat-square&label=Profile+Views&base=1500)](https://github.com/risewithvj)
 
 </div>
 
@@ -150,13 +150,13 @@ Leading the complete technical lifecycle of a multi-brand digital portfolio. Res
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/risewithvj/risewithvj/main/assets/metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=risewithvj&cc=ffffff&tc=000000&ic=0A66C2&bc=ffffff" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/risewithvj/risewithvj/main/assets/languages.svg" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risewithvj&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -166,7 +166,7 @@ Leading the complete technical lifecycle of a multi-brand digital portfolio. Res
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/demo/?user=risewithvj&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=risewithvj)](https://git.io/streak-stats)
 
 </div>
 
