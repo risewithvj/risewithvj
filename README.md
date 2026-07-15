@@ -39,6 +39,34 @@ I don't just build websites. I build **complete digital systems** — from serve
 
 ---
 
+## Open Source & Free Tools
+
+**Real automation problems I've solved, packaged so anyone can use them for free.**
+
+<table>
+<tr>
+<td width="70%">
+
+### 📞 [IVR Calling Report Automation](https://github.com/risewithvj/ivr-calling-report-automation)
+Turns raw Exotel IVR call exports into branded, auto-scheduled Weekly & Monthly email reports — built entirely on Google Sheets + Apps Script, zero servers, zero cost. Auto-aggregates call data, builds a native in-sheet dashboard with charts and color-graded scoring, and emails a mobile-responsive HTML report on a fixed schedule.
+
+Ready to use in ~10 minutes — copy the template, paste your data, done.
+
+</td>
+<td width="30%" align="center">
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/risewithvj/ivr-calling-report-automation)
+[![Stars](https://img.shields.io/github/stars/risewithvj/ivr-calling-report-automation?style=flat-square&color=FFD700)](https://github.com/risewithvj/ivr-calling-report-automation)
+[![License](https://img.shields.io/badge/License-MIT%20%2B%20Attribution-blue?style=flat-square)](https://github.com/risewithvj/ivr-calling-report-automation/blob/main/LICENSE)
+
+</td>
+</tr>
+</table>
+
+`google-apps-script` `google-sheets` `exotel` `ivr` `call-center-automation` `no-code`
+
+---
+
 ## Tech Stack
 
 **Languages & Scripting**
@@ -113,6 +141,7 @@ Network Administration          → VPN, DNS, SSL, TrueNAS, server hardening
 - Designed complex n8n workflows integrating Zoho SalesIQ → CRM → Google Workspace → Slack/Hangouts for real-time lead routing
 - Built AI agent workflows and web chatbots for lead capture, intent tracking, and automated sales handoff
 - Engineered IVR systems using Exotel for automated call routing and lead qualification
+- Open-sourced an [Exotel IVR reporting automation tool](https://github.com/risewithvj/ivr-calling-report-automation) for the wider community to use free of charge
 
 **Technical SEO at Scale**
 - Achieved **10,000+ crawl requests within 24 hours** after deploying AEO + GEO + Schema strategy
