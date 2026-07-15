@@ -2,7 +2,7 @@
 
 # Vijaya Kumar L
 
-**Lead – Application Engineering · Web Platforms · Automation · AI & Growth Engineering**
+**Lead – Application Engineering · Web Platforms · Automation · Application Security · AI & Growth Engineering**
 
 Bengaluru, Karnataka, India
 
@@ -17,9 +17,11 @@ Bengaluru, Karnataka, India
 
 ## About
 
-Strategic Lead – Application Engineering with 7+ years of experience architecting scalable digital ecosystems, high-performance web platforms, and intelligent automation systems. I bridge the gap between engineering and business growth — building everything from backend infrastructure and CRM-integrated web chatbots to AI agent workflows and real-time lead intelligence pipelines.
+Strategic Lead – Application Engineering with 7+ years of experience architecting scalable digital ecosystems, high-performance web platforms, and intelligent automation systems. I bridge the gap between engineering and business growth — building everything from backend infrastructure and CRM-integrated web chatbots to AI agent workflows, application security remediation, and real-time lead intelligence pipelines.
 
-I don't just build websites. I build **complete digital systems** — from server and DNS to chatbot, CRM, SEO, and automation — from scratch.
+I don't just build websites. I build **complete digital systems** — from server and DNS to chatbot, CRM, SEO, security, and automation — from scratch.
+
+Outside my core role, I run **[Tech Point Official](https://techpointofficial.in)**, offering technology solutions, IT infrastructure management, and content production for corporate clients.
 
 > *"If a task takes more than 10 minutes and you have to do it twice, it's time to automate it."*
 
@@ -33,15 +35,16 @@ I don't just build websites. I build **complete digital systems** — from serve
 | [CIEL Rapid](https://www.cielrapid.ai) | Web Developer | WordPress, Elementor, Cloudflare |
 | [CIEL Skills & Careers](https://www.cielskillsandcareers.com) | Web Developer | WordPress, GA4, GSC, Cloudflare |
 | [Courseplay.ai](https://courseplay.ai) | Architecture & Automation Lead | n8n, Zoho SalesIQ, CRM, System Architecture |
+| Ma Foi Business Consulting | Platform Owner (Audit, Recovery, PHP Backend) | PHP, WordPress, cPanel, Cloudflare |
 | [hfactor.digital](https://hfactor.digital) | Founder & Lead Developer | React, Supabase, PHP, Web Chatbot, CRM |
 
-> Each platform above was **built completely from scratch** — including frontend, backend, hosting, DNS/SSL, security, web chatbot, and CRM integration.
+> Each platform above was **built or recovered completely from scratch** — including frontend, backend, hosting, DNS/SSL, security, web chatbot, and CRM integration.
 
 ---
 
 ## Open Source & Free Tools
 
-**Real automation problems I've solved, packaged so anyone can use them for free.**
+**Real automation and business problems I've solved, packaged so anyone can use them for free.**
 
 <table>
 <tr>
@@ -61,9 +64,37 @@ Ready to use in ~10 minutes — copy the template, paste your data, done.
 
 </td>
 </tr>
+
+<tr>
+<td width="70%">
+
+### 📋 [LeadFlow — Micro CRM](https://github.com/risewithvj/MicroCRM)
+Lightweight lead-management CRM built to solve scattered multi-source lead tracking — SEO forms, WhatsApp, and web chat — across sales teams previously juggling multiple spreadsheets.
+
+</td>
+<td width="30%" align="center">
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/risewithvj/MicroCRM)
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### 🔗 SnapURL — URL Shortener
+Full-stack URL shortener built with React/Vite/TypeScript, Express, PostgreSQL (Drizzle ORM), and Redis — includes analytics, CSV import, JWT auth, and rate limiting. Deployed on Vercel.
+
+</td>
+<td width="30%" align="center">
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/risewithvj)
+
+</td>
+</tr>
 </table>
 
-`google-apps-script` `google-sheets` `exotel` `ivr` `call-center-automation` `no-code`
+`google-apps-script` `google-sheets` `exotel` `ivr` `call-center-automation` `crm` `url-shortener` `no-code`
 
 ---
 
@@ -96,6 +127,7 @@ Ready to use in ~10 minutes — copy the template, paste your data, done.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -122,9 +154,9 @@ Web Chatbots & Lead Systems     → Zoho SalesIQ, custom chatbot flows, web-to-C
 AI Agents & Automation          → n8n, Slangflow, Google Apps Script, Webhooks
 IVR Systems                     → Exotel IVR design, routing logic, telephony integrations
 CRM Integrations                → Zoho CRM, Zoho Desk, SalesIQ → Google Workspace → Slack
-Cloud & Server Infrastructure   → AWS EC2/S3, Cloudflare WAF/CDN, Ubuntu, WHM/cPanel
+Cloud & Server Infrastructure   → AWS EC2/S3, Cloudflare WAF/CDN, cPanel/WHM, Ubuntu
 Technical SEO Systems           → AEO, GEO, Schema (JSON-LD), 390+ SEO landing pages
-Security Engineering            → VAPT, Cloudflare WAF, firewall policies, DDoS protection
+Security Engineering            → VAPT remediation, CVE triage, Cloudflare WAF, DDoS protection
 Network Administration          → VPN, DNS, SSL, TrueNAS, server hardening
 ```
 
@@ -135,13 +167,19 @@ Network Administration          → VPN, DNS, SSL, TrueNAS, server hardening
 **Digital Ecosystem Engineering**
 - Built **CIEL HR's entire website from scratch** — PHP backend, custom web chatbot, Zoho CRM integration, Cloudflare WAF, AWS hosting, and 370+ SEO landing pages
 - Delivered the same end-to-end build for **CIEL Rapid**, **CIEL Skills & Careers**, and **hfactor.digital** — each including web chatbot and full CRM pipeline
+- Recovered **Ma Foi Business Consulting's** platform after inheriting it — full audit, backup, vendor-license recovery, and a critical high-CPU hosting incident resolved
 - Currently architecting the **Courseplay.ai** platform with n8n automation and real-time lead intelligence
+
+**Application Security & VAPT**
+- Remediated a third-party VAPT report on a client-facing payroll application (PSP Agent X) — taken from a failing grade to fully passing, including privilege escalation and session fixation fixes
+- Ran independent VAPT assessments on additional applications; triaged and issued an internal advisory for a high-severity CVE in a shared Python dependency
+- Fixed a live session/auth vulnerability found during a Smart CLM application review
 
 **AI, Automation & Lead Intelligence**
 - Designed complex n8n workflows integrating Zoho SalesIQ → CRM → Google Workspace → Slack/Hangouts for real-time lead routing
-- Built AI agent workflows and web chatbots for lead capture, intent tracking, and automated sales handoff
+- Built AI agent workflows and web chatbots (web + WhatsApp) for lead capture, intent tracking, and automated sales handoff
 - Engineered IVR systems using Exotel for automated call routing and lead qualification
-- Open-sourced an [Exotel IVR reporting automation tool](https://github.com/risewithvj/ivr-calling-report-automation) for the wider community to use free of charge
+- Open-sourced an [Exotel IVR reporting automation tool](https://github.com/risewithvj/ivr-calling-report-automation) and a lightweight [Micro CRM](https://github.com/risewithvj/MicroCRM) for the wider community to use free of charge
 
 **Technical SEO at Scale**
 - Achieved **10,000+ crawl requests within 24 hours** after deploying AEO + GEO + Schema strategy
@@ -150,8 +188,9 @@ Network Administration          → VPN, DNS, SSL, TrueNAS, server hardening
 
 **Security & Infrastructure**
 - Managed VAPT remediation, Cloudflare WAF, bot protection, DDoS rules, and SSL/DNS for enterprise-grade platforms
+- Migrated production databases (NeonDB → PostgreSQL) with zero data loss; set up Docker + n8n on AWS for internal automation
 - Built and maintained TrueNAS-based storage server supporting 100+ daily active users at Jumbotail
-- Administered AWS EC2/S3, WHM/cPanel, and Ubuntu server environments across multiple organizations
+- Administered AWS EC2/S3, cPanel/WHM, and Ubuntu server environments across multiple organizations
 
 ---
 
@@ -159,7 +198,7 @@ Network Administration          → VPN, DNS, SSL, TrueNAS, server hardening
 
 **Lead – Application Engineering · CIEL HR** *(Mar 2026 – Present)*
 
-Leading the complete technical lifecycle of a multi-brand digital portfolio. Responsible for system architecture, automation engineering, SEO infrastructure, AI agent workflows, and cross-functional technical leadership.
+Leading the complete technical lifecycle of a multi-brand digital portfolio. Responsible for system architecture, application security (VAPT/CVE remediation), automation engineering, SEO infrastructure, AI agent workflows, and cross-functional technical leadership.
 
 ---
 
@@ -223,7 +262,7 @@ Leading the complete technical lifecycle of a multi-brand digital portfolio. Res
 
 ## Let's Connect
 
-Open to conversations on web architecture, AI agents, automation engineering, technical SEO, and Micro SaaS.
+Open to conversations on web architecture, application security, AI agents, automation engineering, technical SEO, and Micro SaaS.
 
 - **LinkedIn**: [linkedin.com/in/vijayakumarl](https://www.linkedin.com/in/vijayakumarl/)
 - **Blog**: [trendit.in/author/vijayakumarl](https://trendit.in/author/vijayakumarl/)
