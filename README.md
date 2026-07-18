@@ -68,6 +68,24 @@ Ready to use in ~10 minutes — copy the template, paste your data, done.
 <tr>
 <td width="70%">
 
+### 💬 [Zoho SalesIQ Report Automation](https://github.com/risewithvj/zoho-salesiq-report-automation)
+Free Zoho SalesIQ report automation for Website & WhatsApp chatbots — auto-reads your exports from Google Drive, classifies leads by source, and emails branded Weekly/Monthly reports via Google Sheets + Apps Script. No servers, no cost.
+
+Fully customizable lead-source categories, automatic Website vs. WhatsApp channel detection, native in-sheet charts, CSAT tracking, and auto-written insight lines every period.
+
+</td>
+<td width="30%" align="center">
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/risewithvj/zoho-salesiq-report-automation)
+[![Stars](https://img.shields.io/github/stars/risewithvj/zoho-salesiq-report-automation?style=flat-square&color=FFD700)](https://github.com/risewithvj/zoho-salesiq-report-automation)
+[![License](https://img.shields.io/badge/License-MIT%20%2B%20Attribution-blue?style=flat-square)](https://github.com/risewithvj/zoho-salesiq-report-automation/blob/main/LICENSE)
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
 ### 📋 [LeadFlow — Micro CRM](https://github.com/risewithvj/MicroCRM)
 Lightweight lead-management CRM built to solve scattered multi-source lead tracking — SEO forms, WhatsApp, and web chat — across sales teams previously juggling multiple spreadsheets.
 
@@ -94,7 +112,7 @@ Full-stack URL shortener built with React/Vite/TypeScript, Express, PostgreSQL (
 </tr>
 </table>
 
-`google-apps-script` `google-sheets` `exotel` `ivr` `call-center-automation` `crm` `url-shortener` `no-code`
+`google-apps-script` `google-sheets` `exotel` `ivr` `zoho-salesiq` `whatsapp-automation` `chatbot-analytics` `call-center-automation` `crm` `url-shortener` `no-code`
 
 ---
 
@@ -137,6 +155,7 @@ Full-stack URL shortener built with React/Vite/TypeScript, Express, PostgreSQL (
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white)
 ![Slangflow](https://img.shields.io/badge/Slangflow-FF6B35?style=flat-square&logoColor=white)
 ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=flat-square&logo=zoho&logoColor=white)
+![Zoho SalesIQ](https://img.shields.io/badge/Zoho%20SalesIQ-F9B21D?style=flat-square&logoColor=white)
 
 **Tools & Workflow**
 
@@ -151,6 +170,7 @@ Full-stack URL shortener built with React/Vite/TypeScript, Express, PostgreSQL (
 ```
 Full-Stack Web Platforms        → PHP, React, WordPress, Joomla, CMS (built from scratch)
 Web Chatbots & Lead Systems     → Zoho SalesIQ, custom chatbot flows, web-to-CRM pipelines
+Reporting Automation            → Google Sheets + Apps Script — IVR, chatbot & CRM report tools
 AI Agents & Automation          → n8n, Slangflow, Google Apps Script, Webhooks
 IVR Systems                     → Exotel IVR design, routing logic, telephony integrations
 CRM Integrations                → Zoho CRM, Zoho Desk, SalesIQ → Google Workspace → Slack
@@ -179,7 +199,7 @@ Network Administration          → VPN, DNS, SSL, TrueNAS, server hardening
 - Designed complex n8n workflows integrating Zoho SalesIQ → CRM → Google Workspace → Slack/Hangouts for real-time lead routing
 - Built AI agent workflows and web chatbots (web + WhatsApp) for lead capture, intent tracking, and automated sales handoff
 - Engineered IVR systems using Exotel for automated call routing and lead qualification
-- Open-sourced an [Exotel IVR reporting automation tool](https://github.com/risewithvj/ivr-calling-report-automation) and a lightweight [Micro CRM](https://github.com/risewithvj/MicroCRM) for the wider community to use free of charge
+- Open-sourced an [Exotel IVR reporting automation tool](https://github.com/risewithvj/ivr-calling-report-automation), a [Zoho SalesIQ Website & WhatsApp chatbot reporting automation tool](https://github.com/risewithvj/zoho-salesiq-report-automation), and a lightweight [Micro CRM](https://github.com/risewithvj/MicroCRM) for the wider community to use free of charge
 
 **Technical SEO at Scale**
 - Achieved **10,000+ crawl requests within 24 hours** after deploying AEO + GEO + Schema strategy
